@@ -22,7 +22,7 @@
 	<link rel="stylesheet" type="text/css" href="view/css/grupak/grupak-blue.css">
 	<!--Favicon Grupak-->
 	<link rel="shortcut icon" href="view/img/favicon/grupak-favicon.ico">
-	<title>Titulo de la pagina</title>
+	<title>Grupak || Reservación de Salas</title>
 </head>
 <body>
 	<!-- My Header Start-->
@@ -92,7 +92,7 @@
 					<div class="afmatter">
 						<i class="fas fa-address-book"></i>
 						<h4>Calendario</h4>
-						<a href="#">Saber más...</a>
+						<a href="index.php?controller=Index&action=calendar">Saber más...</a>
 					</div>
 				</div>
 			</div>
@@ -101,7 +101,7 @@
 					<div class="afmatter">
 						<i class="fas fa-calendar-alt"></i>
 						<h4>Registro</h4>
-						<a href="#">Saber más...</a>
+						<a href="index.php?controller=Index&action=registry">Saber más...</a>
 					</div>
 				</div>
 			</div>
